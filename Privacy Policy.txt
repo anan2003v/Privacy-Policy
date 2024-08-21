@@ -1,0 +1,35 @@
+Privacy Policy
+
+
+### **EVDOWNLOADER Privacy Policy**
+
+At **EVDOWNLOADER**, we are committed to protecting the privacy of our users and ensuring the security of their data. This policy explains how we handle the data and information accessed through the app.
+
+#### **1. Data Collection:**
+- **EVDOWNLOADER** does not collect any personal or financial data from its users.
+- No information about user activity within or outside the app is collected.
+
+#### **2. Access to Internal Storage:**
+- The app requests permission to access the device's internal storage solely for downloading and managing files chosen by the user.
+- The app does not access any other data on the user’s device or store any additional information without the user’s explicit consent.
+
+#### **3. Data Sharing:**
+- No data is shared with third parties, as **EVDOWNLOADER** does not collect or process any personal data.
+
+#### **4. Data Security:**
+- We adhere to the highest security standards to ensure the protection of the user's device while using the app.
+- The app only accesses the files the user chooses to download and does not include any tracking or monitoring practices.
+
+#### **5. Advertisements:**
+- **EVDOWNLOADER** contains advertisements. These ads may be provided by third-party ad networks. However, the app itself does not collect or share any personal data with these ad networks.
+
+#### **6. User Rights:**
+- Since the app does not collect any data, there is no data for users to request modification or deletion.
+
+#### **7. Contact:**
+- If you have any questions or need further information about our privacy policy, please contact us via email at: anan2003v@gmail.com .
+
+---
+
+Please review this policy regularly, as we may update it to ensure compliance with the latest security and legal standards.
+
